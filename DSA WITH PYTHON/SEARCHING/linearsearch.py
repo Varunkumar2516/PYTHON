@@ -6,7 +6,9 @@ def linear_search(arr, target):
 
 # Example
 arr = list(map(int,input("Enter the numbers with space").split()))
-target = 70
+print(f"Your Array : {arr}")
+target=int(input("Enter the target number :: "))
+
 
 result = linear_search(arr, target)
 
