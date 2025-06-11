@@ -30,10 +30,10 @@ print("OR (x or y):", x or y)              # Logical OR
 print("NOT (not x):", not x)               # Logical NOT
 
 print("\nBitwise Operators:")
-print("Bitwise AND (a & b):", a & b)       # Bitwise AND
-print("Bitwise OR (a | b):", a | b)        # Bitwise OR
-print("Bitwise XOR (a ^ b):", a ^ b)       # Bitwise XOR
-print("Bitwise NOT (~a):", ~a)             # Bitwise NOT
+print("Bitwise AND (a & b):", a & b) #10 & 3 => 1010 & 0011 => 0010(2)     # Bitwise AND
+print("Bitwise OR (a | b):", a | b) #10 | 3 => 1010 | 0011 => 1011(11)       # Bitwise OR
+print("Bitwise XOR (a ^ b):", a ^ b)#10 ^ 3 => 1010 ^ 0011 => 1001(9)       # Bitwise XOR
+print("Bitwise NOT (~a):", ~a)   #~10 => ~1010 => 0101(5)        # Bitwise NOT
 print("Left Shift (a << 1):", a << 1)      # Left Shift
 print("Right Shift (a >> 1):", a >> 1)     # Right Shift
 
