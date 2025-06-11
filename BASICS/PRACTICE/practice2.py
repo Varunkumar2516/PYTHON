@@ -12,4 +12,5 @@ a=int(input("Enter the any number"))
 print("Number is even ") if a%2==0 else print("Number is odd")
 
 #program 3: Write a program to create area calculator
-len=int(input("Enter the length of "))
+len=int(input("Enter the length of rectangle"))
+breadth=int(input("ENter the breadth of the rectangle"))
