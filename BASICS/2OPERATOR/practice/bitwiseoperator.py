@@ -1,3 +1,4 @@
+#using number of ones with bitwise operator
 def numberofones(n):
     count = 0
     while n:
