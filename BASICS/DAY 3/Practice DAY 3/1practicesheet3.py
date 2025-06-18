@@ -11,8 +11,9 @@
 #Problem 1:
 print("\n1. Sum of all even numbers upto 50")
 sum=0
-for i in range(0,51,2):
-    sum=sum+i
+for i in range(0,51):
+    if i%2==0:
+     sum=sum+i
 print("Sum of even numbers upto 50 is ",sum)
 
 #Problem 2:
@@ -28,9 +29,13 @@ n=1
 sum=0
 i=1
 while(n<=10):
-    sum=sum+i
-    i=i+2
-    n=n+1
+    if i%2==0:
+        i=i+1
+    else:
+        sum=sum+i
+        i=i+1
+        n=n+1
+    
 print("Sum of first 10 odd numbers",sum)
 
 #problem 4:
@@ -40,4 +45,4 @@ for i in range(1,101):
         print(i,end=" ")
 
 #problem 5:
-"""  On nextprogram """
+"""  On nextprogram  on next file"""
