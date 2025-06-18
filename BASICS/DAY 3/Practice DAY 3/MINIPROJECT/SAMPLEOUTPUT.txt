@@ -1,0 +1,57 @@
+#EXAMPLE OUTPUT#
+
+*********Welcome to the Supermarket Billing System!***********
+Available Items:     
+Code    Item    Price
+1       MILK    ₹50  
+2       BREAD   ₹20  
+3       Eggs    ₹6   
+4       RICE    ₹60  
+5       Suger   ₹50  
+0       EXIT         
+
+Enter the item code:2
+Enter the quantity 6
+Enter the item code:1
+Enter the quantity 8
+Enter the item code:3
+Enter the quantity 2
+Enter the item code:0
+Exit
+Item    Quantity        Price   total
+Bread     6             20       120
+milk      8             50       400
+EGGS      2             6        12
+GrandTotal                       532
+
+
+
+
+Enter YES for next person and No for EXITyes
+New customer:
+**********Welcome to the Supermarket Billing System!***********
+Available Items:
+Code    Item    Price
+1       MILK    ₹50
+2       BREAD   ₹20
+3       Eggs    ₹6
+4       RICE    ₹60
+5       Suger   ₹50
+0       EXIT
+
+Enter the item code:2
+Enter the quantity 8
+Enter the item code:1
+Enter the quantity 3
+Enter the item code:0
+Exit
+Item    Quantity        Price   total
+Bread     8             20       160
+milk      3             50       150
+GrandTotal                       310
+
+
+
+
+Enter YES for next person and No for EXIT:: no
+Thank You BILLING SYSTEM IS CLOSED
