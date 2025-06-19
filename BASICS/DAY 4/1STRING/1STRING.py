@@ -78,7 +78,8 @@ print(greeting + " " + name)  # Hello Alice
 age = 25
 print(f"My name is {name} and I am {age} years old.")
 print("My name is {} and I am {} years old.".format(name, age))
-
+A="Hello i am {} ,and my age is {}"
+print(A.format(name,age))
 # ------------------------------------------------
 
 # 9 Checking Substring
@@ -117,6 +118,8 @@ print("Reversed string:", reversed_str)
 user_input = input("Enter a word: ")
 print("Last character is:", user_input[-1])  # works regardless of length
 
+#13 Fill the given characters and centralizes a string
+print(name.center(20,"*"))
 # ============================================
 # END OF STRING BASICS (DAY 4)
 # ============================================
