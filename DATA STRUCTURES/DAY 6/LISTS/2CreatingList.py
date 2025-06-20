@@ -3,7 +3,7 @@
 
 #1.LIST OF: Square of numbers from 0 to 10.
 #2 LIST OF: Create a list of even numbers from 0 to 10.
-#2 LIST OF: Create a list of PRIME numbers from 0 to 20.
+#3 LIST OF: Create a list of PRIME numbers from 0 to 20.
 #4 LIST OF: Convert all strings to uppercase from another strings
 #5 LIST OF: Remove spaces from a list of strings
 

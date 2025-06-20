@@ -18,7 +18,7 @@ print(fruits)   # Output: ['apple', 'banana', 'cherry']
 print(type(fruits))
 
 
-#LIST OPERATIONS
+#LIST OPERATIONS / Functions
 # ----------------------------------------
 print("\n\n1. Accessing Elements:same as the string")
 print(fruits[0])      # First item: apple
@@ -78,6 +78,38 @@ if "grape" in fruits:
     print("Yes, 'grape' is in the list")
 
 # ----------------------------------------
+print(" \n\n11. to count occurence of particular item")
+print(fruits.count("Chiku"))
+
+
+# ----------------------------------------
+print(" \n\n12. To Create Copy of List")
+A=fruits.copy()
+print(A)
+
+# ----------------------------------------
+print(" \n\n13. To Find the index of some element")
+print("Index of kiwi",fruits.index("kiwi"))
+
+
+# ---------------change original list-------------------
+print(" \n\n14. To Reverse the list")
+fruits.reverse()
+print("reverse of List",fruits)
+
+
+# --------------change original list-------
+print(" \n\n15. To SORT the list")
+fruits.sort()
+print("sorted List",fruits)
+
+# -----------------chamge original list------------
+print(" \n\n16. To Extend the list")
+fruits2=["watermelon","Lichi"]
+fruits.extend(fruits2)
+print("reverse of List",fruits)
+
+
 print("🧪 Bonus: String to List")
 sentence = "Python is fun"
 words = sentence.split()  # Splits by space
