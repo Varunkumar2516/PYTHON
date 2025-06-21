@@ -12,11 +12,7 @@ str=input("Enter the string ::")
 #Method1
 rev=str[::-1]
 print(" Method 1:Reverse of string is ::",rev)
-"""
-Similar to from basics 
-rev=str[len(str)-1,  -1 ,  -1  ]
-       [  start   ,  end,  step]
-"""
+
 #Method 2
 rev1=""
 for i in str:
