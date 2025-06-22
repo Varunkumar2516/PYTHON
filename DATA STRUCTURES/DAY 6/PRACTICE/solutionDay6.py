@@ -48,6 +48,8 @@ print(greatest)"""
 
 
 
+
+
 # 3. Write a program to get the smallest number from the list.
 smallest=B[0]
 for i in range(1,len(B)):
