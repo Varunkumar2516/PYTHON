@@ -8,10 +8,10 @@
 - Practical usage with examples
 
 ## 🗂️ Files:
-- `LOOPS.py`
-- `Practice DAY 3/` (additional exercises)
+- [LOOPS.py](./LOOPS)
+- [Practice DAY 3/](./Practice%20DAY%202) (additional exercises)
 
 ## 🔙 Previous:
-[Day 2 - Type Casting & Conditionals](../DAY 2/README.md)  
+[Day 2 - Type Casting & Conditionals](../DAY%202/README.md)  
 ## ➡️ Next:
-[Day 4 - Strings & String Functions](../DAY 4/README.md)
+[Day 4 - Strings & String Functions](../DAY%204/README.md)

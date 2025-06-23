@@ -6,10 +6,10 @@
 - Warm-up section for logic building
 
 ## 🗂️ Files:
-- `1WARMUPSECTION.py`
-- `PracticeSheets.py`
+- [1WARMUPSECTION.py](./1WARMUPSECTION)
+- [PracticeSheets.py](./PracticeSheets)
 
 ## 🔙 Previous:
-[Day 4 - Strings & String Functions](../DAY 4/README.md)  
+[Day 4 - Strings & String Functions](../DAY%204/README.md)  
 ## ➡️ Next:
-[Day 6 - Lists (Data Structures)](../DATA STRUCTURES/DAY 6/README.md)
+[Day 6 - Lists (Data Structures)](../../DATA_STRUCTURES/DAY6/README.md)
