@@ -6,9 +6,9 @@
 - Data Types (int, float, str, etc.)
 
 ## 🗂️ Files:
-- `1BASICINPUTOUTPUT.py`
-- `2OPERATOR.py`
-- `3DATATYPES.py`
-
+- [1BASICINPUTOUTPUT](./1BASICINPUTOUTPUT)
+- [2OPERATOR](./2OPERATOR)
+- [3DATATYPES](./3DATATYPES)
+- [PRACTICE DAY1](./PRACTICE%20DAY1)
 ## ➡️ Next:
-[Day 2 - Type Casting & Conditionals](../DAY 2/README.md)
+[Day 2 - Type Casting & Conditionals](../DAY%202/README.md)
