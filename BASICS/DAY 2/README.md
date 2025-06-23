@@ -15,4 +15,4 @@
 [Day 3 - Loops](../DAY%203/README.md)
 
 # Back To Main Session
-[Back to Main README](../../README.md)
+[Back to Main README](../../README.)
