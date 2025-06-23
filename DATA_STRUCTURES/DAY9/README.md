@@ -20,4 +20,4 @@
 
 ## 🔄 Navigation:
 - ⬅️ [Day 8 – Dictionaries](../DAY8/README.md)
-- ➡️ [Day 10 – (Next Topic)](../../FUNCTIONS/DAY%2010/README.md) 
+- ➡️ [Day 10 – (Next Topic)](../../FUNCTIONS/DAY%2010/readme.md) 
