@@ -37,6 +37,17 @@ A **function** is a reusable block of code that performs a specific task. Functi
 | **Arbitrary \*args**     | `def total(*numbers)`     | Variable number of positional arguments |
 | **Arbitrary \*\*kwargs** | `def info(**data)`        | Variable number of keyword arguments    |
 
+## 📄 Files:
+[Function](../../FUNCTIONS)
+- [Functions1](./function1.py)
+- [Guess Function Output](./functionouptutchecking.py)
+- [NestedFunctions.py](./NestedFunctions.py)
+
+---
+
+## 🔄 Navigation:
+- ⬅️ [Day 9 – SETS](../../DATA_STRUCTURES/DAY9/README.md)
+- ➡️ [Day 11 – FUNCTIONS Part 2](../DAY11/README.md) 
 
 # Back To Main Session
 [Back to Main README](../../README.md)

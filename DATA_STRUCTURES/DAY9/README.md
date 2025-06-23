@@ -20,7 +20,7 @@
 
 ## 🔄 Navigation:
 - ⬅️ [Day 8 – Dictionaries](../DAY8/README.md)
-- ➡️ [Day 10 – (Next Topic)](../../FUNCTIONS/DAY%2010/readme.md) 
+- ➡️ [Day 10 – FUNCTIONS](../../FUNCTIONS/DAY10/readme.md) 
 
 
 # Back To Main Session
