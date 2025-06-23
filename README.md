@@ -38,7 +38,7 @@ This guide is built for **absolute beginners**, designed to **transform you step
 - [Day 10-Funtions](./FUNCTIONS/DAY%2010/readme.md)
 ## 🔗 Quick Access to Practice Files
 
-- [Loops Practice](./BASICS/DAY%203/Practice%20Day%203.py)
+- [Loops Practice](./BASICS/DAY%203/Practice%20Day%203)
 - [Warm-Up Problems](./BASICS/DAY%205%20Practice%20Day/PracticeSheets.py)
 - [List Comprehension Practice](./DATA_STRUCTURES/DAY6/LISTS/3LISTCOMPREHENSION.py)
 - [Set Challenges](./DATA_STRUCTURES/DAY9/1SET/challenge.py)
