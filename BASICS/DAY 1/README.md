@@ -10,5 +10,8 @@
 - [2OPERATOR](./2OPERATOR)
 - [3DATATYPES](./3DATATYPES)
 - [PRACTICE DAY1](./PRACTICE%20DAY1)
-## ➡️ Next:
+##  Next:
 [Day 2 - Type Casting & Conditionals](../DAY%202/README.md)
+
+## To Main SECTION
+[Back to Main README](../../README.md)

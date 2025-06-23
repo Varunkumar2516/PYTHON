@@ -17,6 +17,32 @@ This guide is built for **absolute beginners**, designed to **transform you step
 - 👀 Anyone tired of vague tutorials and wants a **clear roadmap**
 
 ---
+## 📅 Day-wise Topics Overview
+
+### 🔰 Basics
+- [Day 1 – Python Basics](./BASICS/DAY%201/README.md)
+- [Day 2 – Type Casting & Conditionals](./BASICS/DAY%202/README.md)
+- [Day 3 – Loops](./BASICS/DAY%203/README.md)
+- [Day 4 – Strings & String Functions](./BASICS/DAY%204/README.md)
+- [Day 5 – Practice Day & Warm-Up Problems](./BASICS/DAY%205%20Practice%20Day/README.md)
+
+### 🧱 Data Structures
+- [Day 6 – Lists](./DATA_STRUCTURES/DAY6/README.md)
+- [Day 7 – Tuples](./DATA_STRUCTURES/DAY7/README.md)
+- [Day 8 – Dictionaries](./DATA_STRUCTURES/DAY8/README.md)
+- [Day 9 – Sets](./DATA_STRUCTURES/DAY9/README.md)
+
+---
+
+### 🧱 FUNCTIONS
+- [Day 10-Funtions](./FUNCTIONS/DAY%2010/readme.md)
+## 🔗 Quick Access to Practice Files
+
+- [Loops Practice](./BASICS/DAY%203/Practice%20Day%203.py)
+- [Warm-Up Problems](./BASICS/DAY%205%20Practice%20Day/PracticeSheets.py)
+- [List Comprehension Practice](./DATA_STRUCTURES/DAY6/LISTS/3LISTCOMPREHENSION.py)
+- [Set Challenges](./DATA_STRUCTURES/DAY9/1SET/challenge.py)
+
 
 ## 📆 How to Use This Guide?
 

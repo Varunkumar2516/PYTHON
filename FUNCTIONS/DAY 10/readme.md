@@ -17,6 +17,9 @@ A **function** is a reusable block of code that performs a specific task. Functi
 
 ---
 
+
+# Back To Main Session
+[Back to Main README](../../README.md)
 ##  Types of Functions in Python
 
 | Type                  | Description                                      |
