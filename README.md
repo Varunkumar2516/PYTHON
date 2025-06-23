@@ -35,7 +35,7 @@ This guide is built for **absolute beginners**, designed to **transform you step
 ---
 
 ### 🧱 FUNCTIONS
-- [Day 10-Funtions](./FUNCTIONS/DAY%2010/readme.md)
+- [Day 10-Funtions](./FUNCTIONS/DAY10/readme.md)
 ## 🔗 Quick Access to Practice Files
 
 - [Loops Practice](./BASICS/DAY%203/Practice%20Day%203)
