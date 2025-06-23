@@ -19,5 +19,5 @@
 ---
 
 ## 🔄 Navigation:
-- ⬅️ [Day 5 – Practice & Warm-up](../../BASICS/DAY%205%20Practice%20DAY/README.md)
+- ⬅️ [Day 5 – Practice & Warm-up](../../BASICS/DAY%205%20Practice%20Day/README.md)
 - ➡️ [Day 7 – Tuples](../DAY7/README.md)
