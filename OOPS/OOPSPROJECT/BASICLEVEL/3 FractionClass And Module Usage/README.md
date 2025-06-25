@@ -24,7 +24,7 @@ This project is part of the **"Python from Beginner to Advanced"** guide – .
 
 ##  Files
 
-- [CUSTOM_FRACTION_CALCULATOR](./1Custom_Fraction_class.py)– Main class and usage examples
+- [CUSTOM_FRACTION_CALCULATOR](./Custom_Fraction_class.py)– Main class and usage examples
 - [Fraction-Module](./Fraction_Module.py)
 
 ---
