@@ -1,0 +1,62 @@
+How Can I Help You?
+     1. PRess 1 to Create Pin
+     2. Press 2 to Change Pin
+     3. Press 3 to Check Balance
+     4. press 4 to withdraw
+     5.Anything else to exit
+
+Enter the Input :1
+Enter Your 4-Digit Pin :1000
+Enter the First Amount To Deposit :9999
+Pin Created Succesfully 
+Press Enter to Return to Main Menu 
+
+     How Can I Help You?        
+     1. PRess 1 to Create Pin   
+     2. Press 2 to Change Pin   
+     3. Press 3 to Check Balance
+     4. press 4 to withdraw     
+     5.Anything else to exit    
+
+Enter the Input :2
+Enter your Old Pin :1000
+Enter 4-digit New Pin :4567
+new Pin Set Successfully !
+Press Enter to Return to Main Menu 
+
+     How Can I Help You?        
+     1. PRess 1 to Create Pin   
+     2. Press 2 to Change Pin   
+     3. Press 3 to Check Balance
+     4. press 4 to withdraw     
+     5.Anything else to exit    
+
+Enter the Input :3
+ TO Check Your Balance : Enter your Old Pin4567
+Balance :: ₹ 9999
+Press Enter to Return to Main Menu
+
+     How Can I Help You?
+     1. PRess 1 to Create Pin
+     2. Press 2 to Change Pin
+     3. Press 3 to Check Balance
+     4. press 4 to withdraw
+     5.Anything else to exit
+
+Enter the Input :4
+ TO Withdraw : Enter your Old Pin :4567
+Balance :: ₹ 9999
+Enter Amount to Withdraw :999
+Withdraw succesfully : ₹ 999
+ Balance : ₹ 9000
+Press Enter to Return to Main Menu
+
+     How Can I Help You?
+     1. PRess 1 to Create Pin
+     2. Press 2 to Change Pin
+     3. Press 3 to Check Balance
+     4. press 4 to withdraw
+     5.Anything else to exit
+
+Enter the Input :5
+Thanks To visit !
