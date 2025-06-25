@@ -17,7 +17,7 @@ class Car:
         # Accessing attributes using self
         print(f"Brand: {self.brand}, Model: {self.model}")
 
-# 🎯 Creating an object
+# Creating an object
 car1 = Car("Toyota", "Camry")
 car1.show_info()
 
@@ -26,9 +26,9 @@ car1.show_info()
 
 
 # ------------------------------------------------------------
-# 🧠 Problem-Solving Example: Book Info Class
+#  Problem-Solving Example: Book Info Class
 
-# 🎯 Problem:
+#  Problem:
 # Create a class `Book` with attributes: title and author.
 # Use `self` to initialize and display these attributes using a method.
 
@@ -38,13 +38,24 @@ class Book:
         self.author = author    # initialize author
 
     def display(self):
-        print(f"📘 Title : {self.title}")
-        print(f"✍️ Author: {self.author}")
+        print(f" Title : {self.title}")
+        print(f" Author: {self.author}")
 
-# 🔍 Testing the Book class
-book1 = Book("The Alchemist", "Paulo Coelho")
+#  Testing the Book class
+book1 = Book("PHYSICS ", "SL.arora")
 book1.display()
 
 # Output:
-# 📘 Title : The Alchemist
-# ✍️ Author: Paulo Coelho
+#  Title : The Alchemist
+#  Author: Paulo Coelho
+
+
+
+#Functions : functions that are defined outside the class
+#methods :  functions that are inside the class
+
+# L=[1,2,3] List
+# len(L)        Function
+# L.append(4)   Method
+# L.pop()       Method
+

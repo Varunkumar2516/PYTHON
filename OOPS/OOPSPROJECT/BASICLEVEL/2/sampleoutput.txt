@@ -1,0 +1,34 @@
+
+=========================================
+  Student Information Management System  
+=========================================
+Enter Your Name ::varun
+Enter your Age :: 18
+Enter your rollno. :: 2301705
+
+
+ Stored Data
+Student Name:: varun
+Age : 18
+Roll Number : 2301705
+
+
+ Enter (yes/no) FOr new Student : yes
+Enter Your Name ::uday
+Enter your Age :: 23
+Enter your rollno. :: 2301701
+
+
+ Stored Data
+Student Name:: uday
+Age : 23
+Roll Number : 2301701
+
+
+ Enter (yes/no) FOr new Student : no 
+Thank you
+Stored Information in Dictionary FOrmat :
+{
+varun : ('18', '2301705')
+uday : ('23', '2301701')
+}

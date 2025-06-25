@@ -1,7 +1,7 @@
 #  Day 12: Constructor of Class in Python
 
 #  What is a Constructor?
-# In Python, the constructor method is called __init__()
+# In Python, the constructor method is called Magic Method __init__()
 # It is a special method that is automatically called when an object is created.
 # The main purpose of __init__ is to initialize the attributes of the object.
 
