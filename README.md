@@ -36,6 +36,16 @@ This guide is built for **absolute beginners**, designed to **transform you step
 
 ### 🧱 FUNCTIONS
 - [Day 10-Funtions](./FUNCTIONS/DAY10/readme.md)
+- [Day 11-Funtions Part 2](./FUNCTIONS/DAY11/readme.md)
+
+### OOPS
+- [Day 12-OOPS part 1](./OOPS/DAY12/readme.md)
+- [Day 13-OOPS part 2 WIth MODULES](./OOPS/DAY13/readme.md)
+
+
+## PROJECTS LINKS
+- [Day 13-OOPS part 2 WIth MODULES](./OOPS/OOPSPROJECT)
+
 ## 🔗 Quick Access to Practice Files
 
 - [Loops Practice](./BASICS/DAY%203/Practice%20Day%203)
