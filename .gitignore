@@ -2,3 +2,4 @@ pyMINIPROJECTS/DICTIONARY/dictionaryproblem.py
 __pycache__/
 
 *.pyc
+*.ipynb
