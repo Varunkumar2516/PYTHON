@@ -19,7 +19,7 @@
 ---
 
 ## 🔄 Navigation:
-- ⬅️ [Day 10 – Functions Part 1](../DAY10/README.md)
+- ⬅️ [Day 10 – Functions Part 1](./DAY10/readme.md)
 - ➡️ [Day 12 – OOPS](../../OOPS/DAY12/README.md) 
 
 # Back To Main Session
