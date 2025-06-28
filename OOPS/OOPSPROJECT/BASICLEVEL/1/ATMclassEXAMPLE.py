@@ -6,8 +6,8 @@ class Atm:
     #constructor used to insitalizie the class attributes
     def __init__(self):
         #two Variables
-        self.pin=''
-        self.balance=0
+        self.__pin=''   #Private Members
+        self.__balance=0  #private members
         self.menu()
     #Wait Function
     def wait(self):
@@ -16,24 +16,24 @@ class Atm:
     def menu(self):
         print("""
      How Can I Help You?
-     1. PRess 1 to Create Pin
-     2. Press 2 to Change Pin
-     3. Press 3 to Check Balance
+     1. PRess 1 to Create __pin
+     2. Press 2 to Change __pin
+     3. Press 3 to Check __balance
      4. press 4 to withdraw
      5.Anything else to exit
               """)
         userinput=input("Enter the Input :")
         if userinput=='1':
-            #Create Pin Code
-            self.create_pin()
+            #Create __pin Code
+            self.create___pin()
             
         elif userinput=='2':
-            #change Pin
-             self.change_pin()
+            #change __pin
+             self.change___pin()
              
         elif userinput=='3':
-            #check Balance
-            self.check_Balance()
+            #check __balance
+            self.check___balance()
         elif userinput=='4':
             #withdraw 
             self.withdraw()
@@ -42,79 +42,79 @@ class Atm:
             
 
 
-    def create_pin(self):
-        if self.pin=='':
-            inpin=input("Enter Your 4-Digit Pin :")
-            if inpin.isdigit() and len(inpin)==4:
-                self.pin=inpin
+    def create___pin(self):
+        if self.__pin=='':
+            in__pin=input("Enter Your 4-Digit __pin :")
+            if in__pin.isdigit() and len(in__pin)==4:
+                self.__pin=in__pin
                 
-                startingbalance=input("Enter the First Amount To Deposit :")
-                if startingbalance.isdigit():
-                    self.balance=int(startingbalance)
-                    print("Pin Created Succesfully ")
+                starting__balance=input("Enter the First Amount To Deposit :")
+                if starting__balance.isdigit():
+                    self.__balance=int(starting__balance)
+                    print("__pin Created Succesfully ")
                 else:
-                    print("Invalid Balance Input ,Try Again")
+                    print("Invalid __balance Input ,Try Again")
             else:
-                print("Pin Must Be of 4 digit Number!")
+                print("__pin Must Be of 4 digit Number!")
         else :
-            print("Pin Already Created")
+            print("__pin Already Created")
         self.wait()
             
 
-    def change_pin(self):
-         if self.pin=='':
-             print("First Create THe Pin !")
+    def change___pin(self):
+         if self.__pin=='':
+             print("First Create THe __pin !")
              self.wait()
          else:
-             oldpin=input("Enter your Old Pin :")
-             if str(oldpin)==str(self.pin ):
-                  inpin=input("Enter 4-digit New Pin :")
-                  if inpin.isdigit() and len(inpin)==4:
+             old__pin=input("Enter your Old __pin :")
+             if str(old__pin)==str(self.__pin ):
+                  in__pin=input("Enter 4-digit New __pin :")
+                  if in__pin.isdigit() and len(in__pin)==4:
             
-                     self.pin=inpin
-                     print("new Pin Set Successfully !")
+                     self.__pin=in__pin
+                     print("new __pin Set Successfully !")
                      self.wait()
                   else:
-                     print("Pin must be of 4-digit !Try Again")
+                     print("__pin must be of 4-digit !Try Again")
                      self.wait()
 
                  
              else :
-                 print("Pin Entered is Incorrect !! Try Again")
+                 print("__pin Entered is Incorrect !! Try Again")
                  self.wait()
         
          
-    def check_Balance(self):
-        oldpin=input(" TO Check Your Balance : Enter your Old Pin")
-        if str(oldpin)==str(self.pin ):
-             print("Balance :: ₹"  ,self.balance)
+    def check___balance(self):
+        old__pin=input(" TO Check Your __balance : Enter your Old __pin")
+        if str(old__pin)==str(self.__pin ):
+             print("__balance :: ₹"  ,self.__balance)
              self.wait()
             
         else:
-            print("Pin Incorrect ! Try Again")
+            print("__pin Incorrect ! Try Again")
             self.wait()
 
     def withdraw(self):
-        oldpin=input(" TO Withdraw : Enter your Old Pin :")
-        if str(oldpin)==str(self.pin ):
-             print("Balance :: ₹"  ,self.balance)
+        old__pin=input(" TO Withdraw : Enter your Old __pin :")
+        if str(old__pin)==str(self.__pin ):
+             print("__balance :: ₹"  ,self.__balance)
              amount=input("Enter Amount to Withdraw :")
              if amount.isdigit():
-                 self.balance=int(self.balance)
+                 self.__balance=int(self.__balance)
                  amount=int(amount)
-                 if amount<=self.balance:
+                 if amount<=self.__balance:
                      
-                     self.balance-=amount
+                     self.__balance-=amount
                      print("Withdraw succesfully : ₹",amount)
-                     print(" Balance : ₹",self.balance)
+                     print(" __balance : ₹",self.__balance)
                      self.wait()
                  else:
-                     print("Insufficient Balance !")
+                     print("Insufficient __balance !")
                      self.wait()
                     
             
         else:
-            print("Pin Incorrect ! Try Again")
+            print("__pin Incorrect ! Try Again")
             self.wait()
     
      
