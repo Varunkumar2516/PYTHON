@@ -141,3 +141,8 @@ for i,j in d2.items():
          d1[i]=j
 
 print(d1)
+
+
+
+print("\n\n11. Create the list such that if the number is even we take the Square and if odd we take the CUbe")
+list1=[i**2 if i%2==0 else i**3 for i in range(0,11)]
