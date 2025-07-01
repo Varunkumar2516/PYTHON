@@ -2,4 +2,7 @@ pyMINIPROJECTS/DICTIONARY/dictionaryproblem.py
 __pycache__/
 
 *.pyc
-*.ipynb
+
+FURTHER.MD
+*.gitignore
+.gitignore
