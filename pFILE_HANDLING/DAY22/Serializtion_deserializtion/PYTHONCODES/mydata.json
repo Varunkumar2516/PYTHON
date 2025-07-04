@@ -1,0 +1,38 @@
+{
+ "tuple1": {
+  "type": "tuple",
+  "items": [
+   "arun",
+   18,
+   "CSE"
+  ]
+ },
+ "tuple2": {
+  "type": "tuple",
+  "items": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ "set1": {
+  "type": "set",
+  "items": [
+   "CSE",
+   18,
+   "arun"
+  ]
+ },
+ "set2": {
+  "type": "set",
+  "items": [
+   "AI",
+   "PYTHON"
+  ]
+ }
+}

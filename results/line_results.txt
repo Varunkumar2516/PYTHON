@@ -1,4 +1,0 @@
-Point 1: (2.0, 3.0)
-Point 2: (1.0, 3.0)
-Slope: -0.0
-Y-Intercept: 3.0
