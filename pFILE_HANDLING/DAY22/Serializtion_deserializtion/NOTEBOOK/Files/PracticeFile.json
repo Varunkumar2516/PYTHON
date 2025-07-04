@@ -1,0 +1,104 @@
+{
+ "student_info": {
+  "type": "tuple",
+  "items": [
+   "Alice",
+   20,
+   "CSE"
+  ]
+ },
+ "coordinates": {
+  "type": "tuple",
+  "items": [
+   12.5,
+   45.3
+  ]
+ },
+ "empty_tuple": {
+  "type": "tuple",
+  "items": []
+ },
+ "nested_tuple": {
+  "type": "tuple",
+  "items": [
+   1,
+   {
+    "type": "tuple",
+    "items": [
+     2,
+     3
+    ]
+   },
+   {
+    "type": "tuple",
+    "items": [
+     4,
+     {
+      "type": "tuple",
+      "items": [
+       5,
+       6
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "mixed_tuple": {
+  "type": "tuple",
+  "items": [
+   "Bob",
+   99,
+   3.14,
+   true,
+   null
+  ]
+ },
+ "tuple_of_tuples": {
+  "type": "tuple",
+  "items": [
+   {
+    "type": "tuple",
+    "items": [
+     1,
+     2
+    ]
+   },
+   {
+    "type": "tuple",
+    "items": [
+     3,
+     4
+    ]
+   },
+   {
+    "type": "tuple",
+    "items": [
+     5,
+     6
+    ]
+   }
+  ]
+ },
+ "tuple_with_list": {
+  "type": "tuple",
+  "items": [
+   [
+    1,
+    2,
+    3
+   ],
+   "hello"
+  ]
+ },
+ "tuple_with_dict": {
+  "type": "tuple",
+  "items": [
+   {
+    "a": 1,
+    "b": 2
+   },
+   "test"
+  ]
+ }
+}
