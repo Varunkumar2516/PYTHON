@@ -31,8 +31,8 @@
  "set2": {
   "type": "set",
   "items": [
-   "AI",
-   "PYTHON"
+   "PYTHON",
+   "AI"
   ]
  }
 }
